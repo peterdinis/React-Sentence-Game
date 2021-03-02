@@ -1,0 +1,19 @@
+.navbar {
+    background-color: #006699;
+}
+
+.navbar-brand {
+    color: #eee;
+}
+
+.navbar-brand:hover {
+    color: #eee;
+}
+
+.nav-link {
+    color: #eee;
+}
+
+.nav-link:hover {
+    color: #eee;
+}
